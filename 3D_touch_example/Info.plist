@@ -52,6 +52,11 @@
 			<string>$(PRODUCT_BUNDLE_IDENTIFIER).OpenBlue</string>
 			<key>UIApplicationShortcutItemIconType</key>
 			<string>UIApplicationShortcutIconTypeSearch</string>
+			<key>UIApplicationShortcutItemUserInfo</key>
+			<dict>
+				<key>Open blue</key>
+				<string>ShouldOpenBlue</string>
+			</dict>
 		</dict>
 		<dict>
 			<key>UIApplicationShortcutItemType</key>
